@@ -22,7 +22,7 @@ a {
 
 /*Custom designs*/
 .banner {
-  background-image: url(https://source.unsplash.com/random);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://source.unsplash.com/random);
   background-size: cover;
   color: white;
   padding: 120px 0;
